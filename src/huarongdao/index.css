@@ -1,0 +1,31 @@
+.app{
+  display: flex;
+  padding:30px;
+}
+
+.game {
+  width:280px;
+  height:350px;
+  display:flex;
+  flex-wrap: wrap;
+  
+}
+.oneTwo{
+  width: 70px;
+  height: 140px;
+}
+.twoOne{
+  width: 140px;
+  height: 70px;
+}
+
+.twoTwo{
+  width: 140px;
+  height: 140px;
+}
+.oneOne{
+  float:top;
+  width: 70px;
+  height: 70px;
+}
+
